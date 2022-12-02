@@ -1,0 +1,24 @@
+.page-view-chart-wrapper {
+  canvas {
+    width: 100%;
+  }
+}
+
+.rag{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.highcharts-drilldown-data-label text{
+  text-decoration:none !important;
+  color:black !important;
+}
+
+.table-no-padding th, .table-no-padding td {
+  padding: 2px 15px !important;
+}
+
+.table-no-padding{
+  margin-bottom: 0rem !important;
+}
+
